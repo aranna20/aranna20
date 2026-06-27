@@ -1,182 +1,122 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Arannayava Debnath</h1>
+<h3 align="center">Aspiring Data Analyst | Turning Data into Actionable Insights</h3>
 
-# 👋 Hey, I'm Arannayava Debnath
-
-### From Gold Loan Desks to Data Dashboards — Commerce ➜ Analytics
-
-*An M.Com graduate who spent 6 months in NBFC financial operations and is now channelling that domain knowledge into a data analytics career.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arannayava-debnath-881416323)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arannayava@gmail.com)
-[![Location](https://img.shields.io/badge/📍%20Greater%20Kolkata%20Area-grey?style=for-the-badge)](https://en.wikipedia.org/wiki/Kolkata_metropolitan_area)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🧭 About Me
+## 🚀 About Me
 
-I'm not a typical "just-graduated-and-learning-Python" analyst. I come from a **Commerce + Accounting** background (B.Com, University of Calcutta; M.Com, NSOU) with real exposure to how financial operations actually run — customer KYC, gold appraisal workflows, loan documentation, and compliance in an NBFC environment.
+🔍 Aspiring **Data Analyst** passionate about transforming raw data into meaningful business insights.
 
-That operational context is what I bring to the table: **I know what the data represents before I query it.**
+📊 Currently building expertise in:
 
-Now I'm bridging that domain experience with technical analytics skills — SQL, Python, Power BI — through a Post Graduate Data Analytics Programme at **Ivy Professional School**, with the goal of becoming a data analyst in banking, financial services, or insurance (BFSI).
+- **SQL (MySQL, PostgreSQL)**
+- **Power BI**
+- **Excel**
+- **Python (Pandas, NumPy)**
+- **Data Visualization**
+- **Business Analytics**
 
-> *"Transforming raw data into actionable insights" isn't a buzzword for me — it's the literal gap I saw between branch operations and the decisions being made above them.*
+💼 Former experience in **Gold Loan Operations & Financial Services**, providing strong domain knowledge in:
 
----
+- Banking Operations
+- Customer Analytics
+- Sales Analytics
+- Risk & Compliance
 
-## 🛠️ Tech Stack & Skills
-
-**Core Analytics Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-**Currently Building Proficiency In**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/Advanced%20SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Domain Knowledge**
-
-![BFSI](https://img.shields.io/badge/BFSI%20Operations-1A1A2E?style=flat-square)
-![KYC](https://img.shields.io/badge/KYC%20%26%20Compliance-2C3E50?style=flat-square)
-![Loan Processing](https://img.shields.io/badge/Loan%20Processing-2E4057?style=flat-square)
-![Financial Analytics](https://img.shields.io/badge/Financial%20Analytics-16213E?style=flat-square)
+🎯 Career Goal: To leverage data-driven decision-making for solving real-world business challenges.
 
 ---
 
-## 🔍 Current Focus Areas
+## 🌱 Currently Learning
 
-```
-📌  PG Data Analytics Programme @ Ivy Professional School (Oct 2025 – Present)
-📌  Building end-to-end SQL projects: CTEs, Window Functions, Subqueries
-📌  Learning Power BI dashboard design + DAX measure writing
-📌  Developing Python scripts for data cleaning and EDA
-📌  Exploring BFSI-specific analytics use cases (credit, loan, customer churn)
-```
+- Advanced SQL & Query Optimization
+- Power BI DAX & Data Modeling      
+- Generative AI Applications in Analytics
 
 ---
 
-## 🏦 Professional Background
+## 🛠️ Tech Stack
 
-**Chola Business Services Limited** · Trainee, Gold Loan Division
-`April 2025 – September 2025 | Kolkata`
+### 📊 Data Analytics
 
-- Performed gold ornament evaluation and appraisal for loan disbursement decisions
-- Supported KYC verification and end-to-end loan documentation workflows
-- Managed loan processing, repayment tracking, and account maintenance
-- Worked within strict regulatory and compliance frameworks (NBFC norms)
-- Collaborated with branch teams on operational targets and customer satisfaction
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres" />
+</p>
 
-> **The data analyst lens:** Every loan file I processed was a row in a dataset. Every appraisal was a feature. That experience shaped how I think about BFSI data — not as abstract numbers, but as real decisions with real consequences.
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| M.Com (Accounting & Finance) | Netaji Subhas Open University | 2022–2024 | 56% |
-| B.Com | University of Calcutta | 2018–2021 | 6.45/10 |
-| Class XII (Commerce) | Garden Reach Mudiali High School | 2017–2018 | 59% |
-| Class X | Garden Reach Mudiali High School | 2015–2016 | 55% |
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
 ---
 
-## 📜 Certifications
+## 📂 Featured Projects
 
-- 🏅 **Post Graduate Certification** — Banking, Financial Services & Insurance · *PW Skills, Oct 2023*
-- 📊 **Data Analytics Programme** *(in progress)* — *Ivy Professional School, Oct 2025 – Present*
+### 📈 Profit Leakage & Order Fulfillment MIS Dashboard
+- Built an interactive Excel dashboard to analyze business profitability, delays, and risks.
+- Utilized Pivot Tables, Pivot Charts, KPIs, and advanced Excel formulas.
 
----
+### ☀️ PM Surya Ghar Vendor Analytics
+- End-to-end SQL analytics project focused on vendor performance, installation efficiency, and business growth.
 
-## 🗂️ Projects & Practice Work
-
-> These are the hands-on projects I'm building as part of my analytics journey. Each one is chosen to reflect real BFSI or business problems — not toy datasets.
-
----
-
-### 🏦 Banking Loan Cross-Sell Analytics — Star Schema Dataset
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-Designed and generated a **1M+ row star schema** modelled on an HSBC-style banking analytics use case for loan cross-sell analysis. Built 7 tables (fact + dimensions), generated realistic synthetic data using Python's Faker library, and validated referential integrity across the schema.
-
-`Star Schema` · `Fact & Dimension Tables` · `Python Data Generation` · `BFSI Domain`
+### 🏦 Loan Cross-Sell Opportunity Analytics
+- Developed Power BI dashboards to identify cross-selling opportunities and customer behavior patterns.
 
 ---
 
-### 📊 Power BI Dashboard — Mexico Toy Sales Analysis
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+## 📊 GitHub Stats
 
-Built an end-to-end Power BI dashboard on a Mexico Toy Sales dataset as a structured practice challenge. Focused on DAX measure writing, aggregations, time intelligence, and cross-filter behaviour between visuals.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="stats"/>
+</p>
 
-`Power BI` · `DAX` · `Sales Analytics` · `Data Modelling`
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="streak"/>
+</p>
 
----
-
-### 🗄️ Advanced SQL Practice Set — MySQL
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-A self-built SQL practice repository covering **CTEs, Window Functions, Subqueries, and Aggregations** with real-world inspired problem sets. Each query is documented with the business question it answers — not just the syntax.
-
-`MySQL` · `CTEs` · `Window Functions` · `Subqueries`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="languages"/>
+</p>
 
 ---
 
-### 📄 Data Analytics Study Materials & Reference Docs
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PDF](https://img.shields.io/badge/PDF%20Generation-ReportLab-red?style=flat-square)
+## 🏆 GitHub Trophies
 
-Created structured, professionally formatted study guides and reference PDFs covering DAX formulas, SQL sublanguages, ACID properties, NoSQL database types, and West Bengal administrative data — using Python (ReportLab) and Node.js (docx).
-
-`Python` · `ReportLab` · `Technical Writing` · `Document Automation`
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=10&margin-h=10"/>
+</p>
 
 ---
 
-> 📌 *More projects being added as I progress through my PG programme. Each repo includes a problem statement, approach, and key findings — not just code.*
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/arannayava-debnath-881416323/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="mailto:arannayava@gmail.com">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="gmail" height="30" width="40" />
+</a>
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## ✨ Fun Facts
 
-I'm actively looking for **data analyst opportunities in BFSI**, or any domain where operational domain knowledge + analytics can create real impact.
-
-If you're working on something interesting in:
-- 📊 **Financial data / banking analytics**
-- 🔍 **SQL-heavy data engineering or reporting**
-- 📉 **Customer behaviour and credit analytics**
-
-...let's talk.
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arannayava-debnath-881416323)
-[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arannayava@gmail.com)
+- 📚 Lifelong learner with a background in Commerce & Finance.
+- 🧠 Interested in Data Analytics, AI, and Business Intelligence.
+- 📈 Love converting complex datasets into simple stories.
+- ☕ Coffee + Data = Productivity.
 
 ---
 
-## ⚡ A Few Things About Me
-
-- 🏙️ Based in **Greater Kolkata** — the city that runs on chai and competitive exams
-- 📚 Commerce student turned data enthusiast — I actually enjoyed balance sheets
-- 🧮 I think SQL is the closest thing to a superpower for anyone in finance
-- 🎯 Currently focused: one project at a time, done properly, not ten things halfway
-- 📖 Interested in Indian economic policy, UPSC/SSC content, and how public data tells national stories
-
----
-
-<div align="center">
-
-*Profile views since I stopped being afraid to push to GitHub:*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=aranna20&color=0A66C2&style=flat-square&label=Profile+Views)
-
-</div>
+<p align="center">
+  <i>"Without data, you're just another person with an opinion." – W. Edwards Deming</i>
+</p>
