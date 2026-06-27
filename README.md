@@ -1,87 +1,97 @@
-<h1 align="center">Hi 👋, I'm Arannayava Debnath</h1>
-<h3 align="center">Aspiring Data Analyst | Turning Data into Actionable Insights</h3>
+# <h1 align="center">Hi 👋, I'm Arannayava Debnath</h1>
+
+<h3 align="center">
+Aspiring Data Analyst | Excel • SQL • Power BI Enthusiast | Turning Data into Actionable Insights
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Power+BI;Building+Data-Driven+Solutions;Transforming+Data+into+Insights;Always+Learning+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aranna20&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/aranna20?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/aranna20?affiliations=OWNER&style=for-the-badge&color=yellow" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🔍 Aspiring **Data Analyst** passionate about transforming raw data into meaningful business insights.
+🔹 Passionate about transforming raw data into actionable business insights.
 
-📊 Currently building expertise in:
+🔹 Skilled in **Excel, SQL, Power BI, and Data Visualization**.
 
-- **SQL (MySQL, PostgreSQL)**
-- **Power BI**
-- **Excel**
-- **Python (Pandas, NumPy)**
-- **Data Visualization**
-- **Business Analytics**
+🔹 Background in **Banking & Financial Services**, with hands-on experience in customer operations and financial processes.
 
-💼 Former experience in **Gold Loan Operations & Financial Services**, providing strong domain knowledge in:
+🔹 Interested in solving real-world business problems through analytics.
 
-- Banking Operations
-- Customer Analytics
-- Sales Analytics
-- Risk & Compliance
+🔹 Currently transitioning into a full-time **Data Analyst** role.
 
-🎯 Career Goal: To leverage data-driven decision-making for solving real-world business challenges.
-
----
-
-## 🌱 Currently Learning
-
-- Advanced SQL & Query Optimization
-- Power BI DAX & Data Modeling      
-- Generative AI Applications in Analytics
+🔹 Continuously learning new analytical tools and business intelligence techniques.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📊 Data Analytics
+### 📊 Analytics & BI
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-005C84?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
 </p>
 
+### ⚙️ Tools
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced SQL Query Optimization
+* Power BI DAX & Data Modeling
+* Power Query
+* Statistics for Data Analytics
+* Business Intelligence Concepts
+* Generative AI Applications in Analytics
 
 ---
 
 ## 📂 Featured Projects
 
 ### 📈 Profit Leakage & Order Fulfillment MIS Dashboard
-- Built an interactive Excel dashboard to analyze business profitability, delays, and risks.
-- Utilized Pivot Tables, Pivot Charts, KPIs, and advanced Excel formulas.
 
-### ☀️ PM Surya Ghar Vendor Analytics
-- End-to-end SQL analytics project focused on vendor performance, installation efficiency, and business growth.
-
-### 🏦 Loan Cross-Sell Opportunity Analytics
-- Developed Power BI dashboards to identify cross-selling opportunities and customer behavior patterns.
+> Interactive Excel dashboard analyzing profitability, delayed orders, and operational risks.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aranna20&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aranna20&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="streak"/>
-</p>
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aranna20&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aranna20&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -89,7 +99,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aranna20&theme=algolia&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -97,26 +107,59 @@
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/arannayava-debnath-881416323/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+
+<a href="https://www.linkedin.com/in/arannayava-debnath-881416323/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
-<a href="mailto:arannayava@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="gmail" height="30" width="40" />
+<a href="mailto:[arannayava@gmail.com](mailto:arannayava@gmail.com)">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
+
 </p>
+
+### 🌐 Social Links
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/arannayava-debnath-881416323/">
+<img src="https://img.shields.io/badge/LinkedIn-Arannayava%20Debnath-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:[arannayava@gmail.com](mailto:arannayava@gmail.com)">
+<img src="https://img.shields.io/badge/Email-arannayava%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🤝 Let's Collaborate
+
+💡 I am interested in collaborating on:
+
+* Data Analytics Projects
+* Dashboard Development
+* SQL Challenges
+* Business Intelligence Projects
+* Open Source Analytics Projects
+
+Feel free to connect and collaborate.
 
 ---
 
 ## ✨ Fun Facts
 
-- 📚 Lifelong learner with a background in Commerce & Finance.
-- 🧠 Interested in Data Analytics, AI, and Business Intelligence.
-- 📈 Love converting complex datasets into simple stories.
-- ☕ Coffee + Data = Productivity.
+* 📊 I enjoy building dashboards and uncovering hidden insights.
+* 📚 Lifelong learner with a Commerce & Finance background.
+* 🤖 Curious about AI and Business Intelligence.
+* ☕ Coffee + Data = Productivity.
 
 ---
 
 <p align="center">
-  <i>"Without data, you're just another person with an opinion." – W. Edwards Deming</i>
+<i>"Without data, you're just another person with an opinion."</i>
+
+**— W. Edwards Deming**
+
 </p>
