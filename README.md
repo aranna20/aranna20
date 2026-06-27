@@ -20,7 +20,7 @@ I'm not a typical "just-graduated-and-learning-Python" analyst. I come from a **
 
 That operational context is what I bring to the table: **I know what the data represents before I query it.**
 
-Now I'm bridging that domain experience with technical analytics skills — SQL, Power BI — through a Post Graduate Data Analytics Programme at **Ivy Professional School**, with the goal of becoming a data analyst in banking, financial services, or insurance (BFSI).
+Now I'm bridging that domain experience with technical analytics skills — SQL, Python, Power BI — through a Post Graduate Data Analytics Programme at **Ivy Professional School**, with the goal of becoming a data analyst in banking, financial services, or insurance (BFSI).
 
 > *"Transforming raw data into actionable insights" isn't a buzzword for me — it's the literal gap I saw between branch operations and the decisions being made above them.*
 
@@ -31,6 +31,7 @@ Now I'm bridging that domain experience with technical analytics skills — SQL,
 **Core Analytics Tools**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -100,13 +101,13 @@ Now I'm bridging that domain experience with technical analytics skills — SQL,
 
 <div align="center">
 
-![Arannayava's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arannayava&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Arannayava's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aranna20&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arannayava&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aranna20&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
-> ⚠️ *Replace `arannayava` above with your actual GitHub username.*
+> ⚠️ *GitHub username set to `aranna20` ✓*
 
 ---
 
@@ -140,6 +141,6 @@ If you're working on something interesting in:
 
 *Profile views since I stopped being afraid to push to GitHub:*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=arannayava&color=0A66C2&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=aranna20&color=0A66C2&style=flat-square&label=Profile+Views)
 
-</div>
+</div>v>
