@@ -97,17 +97,53 @@ Now I'm bridging that domain experience with technical analytics skills — SQL,
 
 ---
 
-## 📈 GitHub Stats
+## 🗂️ Projects & Practice Work
 
-<div align="center">
+> These are the hands-on projects I'm building as part of my analytics journey. Each one is chosen to reflect real BFSI or business problems — not toy datasets.
 
-![Arannayava's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aranna20&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aranna20&layout=compact&theme=tokyonight&hide_border=true)
+### 🏦 Banking Loan Cross-Sell Analytics — Star Schema Dataset
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-</div>
+Designed and generated a **1M+ row star schema** modelled on an HSBC-style banking analytics use case for loan cross-sell analysis. Built 7 tables (fact + dimensions), generated realistic synthetic data using Python's Faker library, and validated referential integrity across the schema.
 
-> ⚠️ *GitHub username set to `aranna20` ✓*
+`Star Schema` · `Fact & Dimension Tables` · `Python Data Generation` · `BFSI Domain`
+
+---
+
+### 📊 Power BI Dashboard — Mexico Toy Sales Analysis
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+Built an end-to-end Power BI dashboard on a Mexico Toy Sales dataset as a structured practice challenge. Focused on DAX measure writing, aggregations, time intelligence, and cross-filter behaviour between visuals.
+
+`Power BI` · `DAX` · `Sales Analytics` · `Data Modelling`
+
+---
+
+### 🗄️ Advanced SQL Practice Set — MySQL
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+A self-built SQL practice repository covering **CTEs, Window Functions, Subqueries, and Aggregations** with real-world inspired problem sets. Each query is documented with the business question it answers — not just the syntax.
+
+`MySQL` · `CTEs` · `Window Functions` · `Subqueries`
+
+---
+
+### 📄 Data Analytics Study Materials & Reference Docs
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PDF](https://img.shields.io/badge/PDF%20Generation-ReportLab-red?style=flat-square)
+
+Created structured, professionally formatted study guides and reference PDFs covering DAX formulas, SQL sublanguages, ACID properties, NoSQL database types, and West Bengal administrative data — using Python (ReportLab) and Node.js (docx).
+
+`Python` · `ReportLab` · `Technical Writing` · `Document Automation`
+
+---
+
+> 📌 *More projects being added as I progress through my PG programme. Each repo includes a problem statement, approach, and key findings — not just code.*
 
 ---
 
@@ -143,4 +179,4 @@ If you're working on something interesting in:
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=aranna20&color=0A66C2&style=flat-square&label=Profile+Views)
 
-</div>v>
+</div>
